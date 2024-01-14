@@ -1,5 +1,9 @@
 body{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
+}
+
+header{
+    border: 2px #999 solid;
     color: deeppink;
 }
