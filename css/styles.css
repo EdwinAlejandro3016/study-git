@@ -7,3 +7,7 @@ header{
     border: 2px #999 solid;
     color: deeppink;
 }
+
+footer{
+    background-color: red;
+}
